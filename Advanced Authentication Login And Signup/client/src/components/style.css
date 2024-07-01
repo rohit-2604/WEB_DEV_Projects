@@ -1,0 +1,39 @@
+/* VerifyEmail.css */
+
+.bgcustom{
+    background-color: bisque;
+}
+.bgcustom0{
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.btcustom{
+    
+    font-weight: bold;
+}
+
+.pcustom{
+    color: brown;
+    font-weight: bold;
+}
+
+/* Login buttons */
+
+.btcustom0{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Dashboard.css */
+.pcustom0{
+    color: rgb(195, 52, 52);
+}
+.bgcustom1{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Edit profile */
+.btcustom1{
+    margin-left: 10px;
+}
